@@ -18,7 +18,6 @@ pip install wget
 
 ```
 access_key = '' # add your unspash api key here
-
 ```
 
 ## Run:
