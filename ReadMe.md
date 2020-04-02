@@ -12,6 +12,20 @@ Get Your API HERE :- [Unsplash](https://unsplash.com/developers)
 pip install wget
 ```
 
+## Add API KEY in Wallpapers.py file:
+
+```
+access_key = '' # add your unspash api key here
+
+```
+
+## Run:
+
+```
+python wallpapers.py 
+```
+
+
 
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
